@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    build::std.println!("hello world")
+    let mut window = initer.window.start("Mud Window")
 }
